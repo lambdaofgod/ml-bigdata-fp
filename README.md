@@ -24,7 +24,7 @@ Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kad
 
 [Data Science at Scale](https://www.coursera.org/specializations/data-science) - basic Big Data concepts. Contains interesting exercises, for example writing MapReduce programs.
 
-[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) - probably the best introductory courses for Apache Spark. They use [Databricks Cloud](https://community.cloud.databricks.com/) which basically is notebook environment with Spark setup.
+[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) - probably the best introductory courses for Apache Spark. They use [Databricks Cloud](https://community.cloud.databricks.com/) which basically is notebook environment with Spark setup. Exercises use PySpark.
 
 [Big Data University's courses](https://bigdatauniversity.com/) - not so good as Coursera or edX. Also the courses are Hadoop-centered.
 
