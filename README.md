@@ -33,6 +33,7 @@ Exercises use PySpark.
 
 ### Functional Programming
 
-[Scala Specialization on Coursera](https://www.coursera.org/specializations/scala)
+[Scala Specialization on Coursera](https://www.coursera.org/specializations/scala) - remake of classical Coursera Scala courses.
+[Scala by example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) by Martin Odersky - really concise book on Scala and some FP. I found it really handy as supplementary resource for Coursera Scala courses.
 
-[Introduction to Type Theory](http://www.cs.ru.nl/~herman/onderwijs/provingwithCA/paper-lncs.pdf)
+[Introduction to Type Theory](http://www.cs.ru.nl/~herman/onderwijs/provingwithCA/paper-lncs.pdf) lecture notes
