@@ -4,25 +4,25 @@
 ### Machine Learning
 Classic [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning) - probably the best default beginner course
 
-[Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
+[Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) - more math-heavy and theoretical than Coursera ML
 
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - advanced, views ML from statistical standpoint. Contains examples in R.
 
 Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 
 #### Deep Learning
-Udacity [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+Udacity [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - covers basic material, but pretty sketchy on theoretical foundations. Examples/labs in Tensorflow
 
 Unsupervised Feature Learning for Deep Learning [Tutorial](http://deeplearning.stanford.edu/tutorial/)
 
-Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info)
+Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
 
 
 ### Big Data
 
-[Data Science at Scale](https://www.coursera.org/specializations/data-science)
+[Data Science at Scale](https://www.coursera.org/specializations/data-science) - basic Big Data concepts. Contains interesting exercises, for example writing MapReduce programs.
 
-[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)
+[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) - probably the best introductory courses for Apache Spark. They use [Databricks Cloud](https://community.cloud.databricks.com/) which basically is notebook environment with Spark setup.
 
 [Big Data University's courses](https://bigdatauniversity.com/) - not so good as Coursera or edX. Also the courses are Hadoop-centered.
 
