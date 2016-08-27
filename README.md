@@ -6,6 +6,8 @@ Classic [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning)
 
 [Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) - more math-heavy and theoretical than Coursera ML
 
+[Foundations of Data Science](http://www.cs.cornell.edu/jeh/bookMay2015.pdf) - book covers mathematical aspects of ML, especially Big-data type ML. First chapter contains theoretical aspects of 'the curse of dimensionality'.
+
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - advanced, views ML from statistical standpoint. Contains examples in R.
 
 Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
