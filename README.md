@@ -4,13 +4,13 @@
 ### Machine Learning
 Classic [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning) - probably the best default beginner course
 
-[Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) - more math-heavy and theoretical than Coursera ML
-
 Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+
+Understanding Machine Learning : From Theory to Algorithms - introductory book on ML. Very clear on theory, with exercise sections for each subsection. Can be found on the internet.
 
 [Foundations of Data Science](http://www.cs.cornell.edu/jeh/bookMay2015.pdf) - advanced, covers mathematical aspects of ML, especially Big-data type ML. First chapter contains theoretical aspects of 'the curse of dimensionality'.
 
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - advanced, views ML from statistical standpoint. Contains examples in R.
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - advanced, views ML from statistical standpoint. Contains examples in R. It is based on [ An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), a book that is also freely available.
 
 
 #### Deep Learning
