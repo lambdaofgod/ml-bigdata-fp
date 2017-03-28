@@ -20,6 +20,11 @@ Unsupervised Feature Learning for Deep Learning [Tutorial](http://deeplearning.s
 
 Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
 
+#### NLP/Information retrieval
+
+[Speech and Language Processing (3rd ed draft)](https://web.stanford.edu/~jurafsky/slp3/) - contains introductory material on NLP. 3rd edition has much bigger sections on machine learning and neural network methods.
+
+[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) - classic IR book. Contains information ranging from index definition and construction to machine learning in search.
 
 ### Big Data
 
