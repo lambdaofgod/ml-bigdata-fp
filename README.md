@@ -24,7 +24,11 @@ Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kad
 
 [Speech and Language Processing (3rd ed draft)](https://web.stanford.edu/~jurafsky/slp3/) - contains introductory material on NLP. 3rd edition has much bigger sections on machine learning and neural network methods.
 
+[Natural Language Processing with Python (NLTK book)](http://www.nltk.org/book/) - introductory book using NLTK. Doesn't go as deep as S&LP, but contains lots of programming exercises.
+
 [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) - classic IR book. Contains information ranging from index definition and construction to machine learning in search.
+
+[Hands-on Text Mining and Analytics](https://www.coursera.org/learn/text-mining-analytics) - introductory course on Text Mining. Pretty introductory, but covers useful Java libraries and provides reference articles.
 
 ### Big Data
 
@@ -35,7 +39,6 @@ They use [Databricks Cloud](https://community.cloud.databricks.com/) which basic
 Exercises use PySpark.
 
 [Big Data University's courses](https://bigdatauniversity.com/) - not so good as Coursera or edX. Also the courses are Hadoop-centered.
-
 
 ### Functional Programming
 
