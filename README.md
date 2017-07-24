@@ -16,19 +16,21 @@ Understanding Machine Learning : From Theory to Algorithms - introductory book o
 #### Deep Learning
 Udacity [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - covers basic material, but pretty sketchy on theoretical foundations. Examples/labs in Tensorflow
 
-Unsupervised Feature Learning for Deep Learning [Tutorial](http://deeplearning.stanford.edu/tutorial/)
-
 Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
+
+Hinton's [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/) - Coursera. Really comrehensive introductory course on Deep Learning. The most theory-oriented MOOCs. The only drawback is the course wasn't updated since its first iteration in 2013. Contains some programming exercises using Matlab/Octave. See [here](https://github.com/lambdaofgod/neural-networks-coursera-setup) for code setup.
+
+Unsupervised Feature Learning for Deep Learning [Tutorial](http://deeplearning.stanford.edu/tutorial/)
 
 #### NLP/Information retrieval
 
-[Speech and Language Processing (3rd ed draft)](https://web.stanford.edu/~jurafsky/slp3/) - contains introductory material on NLP. 3rd edition has much bigger sections on machine learning and neural network methods.
+[Speech and Language Processing (3rd ed draft)](https://web.stanford.edu/~jurafsky/slp3/) - introductory material on NLP. 3rd edition has much bigger sections on machine learning and neural network methods. Theory-oriented, one of few textbooks covering word embeddings.
 
-[Natural Language Processing with Python (NLTK book)](http://www.nltk.org/book/) - introductory book using NLTK. Doesn't go as deep as S&LP, but contains lots of programming exercises.
+[Natural Language Processing with Python (NLTK book)](http://www.nltk.org/book/) - introductory book using NLTK. Doesn't go as deep as S&LP, but contains lots of programming exercises and is more beginner-friendly.
 
 [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) - classic IR book. Contains information ranging from index definition and construction to machine learning in search.
 
-[Hands-on Text Mining and Analytics](https://www.coursera.org/learn/text-mining-analytics) - introductory course on Text Mining. Pretty introductory, but covers useful Java libraries and provides reference articles.
+[Hands-on Text Mining and Analytics](https://www.coursera.org/learn/text-mining-analytics) Pretty introductory, but covers useful Java libraries and provides reference articles. See [here](https://github.com/lambdaofgod/yTextMiner) for maven project template.
 
 ### Big Data
 
