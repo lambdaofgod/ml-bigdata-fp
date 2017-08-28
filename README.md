@@ -6,7 +6,7 @@ Classic [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning)
 
 Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 
-Understanding Machine Learning : From Theory to Algorithms - introductory book on ML. Very clear on theory, with exercise sections for each subsection. Can be found on the internet.
+[Understanding Machine Learning : From Theory to Algorithms ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)- introductory book on ML. Very clear on theory, with exercise sections for each subsection. Can be found on the internet.
 
 [Foundations of Data Science](http://www.cs.cornell.edu/jeh/bookMay2015.pdf) - advanced, covers mathematical aspects of ML, especially Big-data type ML. First chapter contains theoretical aspects of 'the curse of dimensionality'.
 
@@ -36,15 +36,16 @@ Unsupervised Feature Learning for Deep Learning [Tutorial](http://deeplearning.s
 
 [Data Science at Scale](https://www.coursera.org/specializations/data-science) - basic Big Data concepts. Contains interesting exercises, for example writing MapReduce programs.
 
-[Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) - probably the best introductory courses for Apache Spark.
-They use [Databricks Cloud](https://community.cloud.databricks.com/) which basically is notebook environment with Spark setup.
-Exercises use PySpark.
+[Introduction to Big Data & Scalable Machine Learning](https://docs.databricks.com/spark/latest/training/index.html) - great introductory courses on Apache Spark.
+They use [Databricks Cloud](https://community.cloud.databricks.com/), a notebook environment with Spark setup.
+Lots of exercises using PySpark.
 
 [Big Data University's courses](https://bigdatauniversity.com/) - not so good as Coursera or edX. Also the courses are Hadoop-centered.
 
 ### Functional Programming
 
 [Scala Specialization on Coursera](https://www.coursera.org/specializations/scala) - remake of classical Coursera Scala courses.
+
 [Scala by example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) by Martin Odersky - really concise book on Scala and some FP. I found it really handy as supplementary resource for Coursera Scala courses.
 
 [Introduction to Type Theory](http://www.cs.ru.nl/~herman/onderwijs/provingwithCA/paper-lncs.pdf) lecture notes
