@@ -14,13 +14,12 @@ Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud26
 
 
 #### Deep Learning
-Udacity [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - covers basic material, but pretty sketchy on theoretical foundations. Examples/labs in Tensorflow
-
-Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
 
 Hinton's [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/) - Coursera. Really comrehensive introductory course on Deep Learning. The most theory-oriented MOOCs. The only drawback is the course wasn't updated since its first iteration in 2013. Contains some programming exercises using Matlab/Octave. See [here](https://github.com/lambdaofgod/neural-networks-coursera-setup) for code setup.
 
-Unsupervised Feature Learning for Deep Learning [Tutorial](http://deeplearning.stanford.edu/tutorial/)
+Udacity [Deep Learning Nanodegree Notebooks](https://github.com/udacity/deep-learning) - cover whole range of topics, from basics to GANs.
+
+Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
 
 #### NLP/Information retrieval
 
