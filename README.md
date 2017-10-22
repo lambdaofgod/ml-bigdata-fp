@@ -10,7 +10,7 @@ Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud26
 
 [Foundations of Data Science](http://www.cs.cornell.edu/jeh/bookMay2015.pdf) - advanced, covers mathematical aspects of ML, especially Big-data type ML. First chapter contains theoretical aspects of 'the curse of dimensionality'.
 
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - advanced, views ML from statistical standpoint. Contains examples in R. It is based on [ An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), a book that is also freely available.
+[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf) - ML from Bayesian inference standpoint. Derivation of regularization in this framework is particularly valuable. Also contains information on structured models and variational inference.
 
 
 #### Deep Learning
