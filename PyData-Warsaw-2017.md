@@ -6,21 +6,26 @@ Warsaw conference took place in Copernicus Science Centre. The conference spanne
 
 ### Interpretability
 
-One big topic of the conference was interpretability of machine learning models. The second keynote, [Towards Interpretable and Accountable Models](https://pydata.org/warsaw2017/schedule/presentation/58/) covered both technical and social aspect of the topic. It was the first talk that mentioned LIME and eli5 libraries. Interesting takeaway was that these libraries, in addition to their intended purpose, can help with debugging and with choosing models.
+One big topic of the conference was interpretability of machine learning models. The second keynote, [Towards Interpretable and Accountable Models](https://pydata.org/warsaw2017/schedule/presentation/58/) covered both technical and social aspect of the topic. It was the first talk that mentioned [lime](https://github.com/marcotcr/lime) and [eli5](https://github.com/TeamHG-Memex/eli5) libraries. Interesting takeaway was that these libraries, in addition to their intended purpose, can help with debugging and with choosing models.
 
-Radim Řehůřek's keynote, [Winning together: Bridging the gap between academia and industry](https://pydata.org/warsaw2017/schedule/presentation/63/) was, among other things, also mentioning the difference of interpretability standards in industrial and scientific setting. This talk also announced another library, [bounter](https://github.com/RaRe-Technologies/bounter) that NLP/text mining people should find useful: bounter (portmanteau of bounded counter) is a datastructure that has similar functionality to counter, albeit the answers it gives are approximate (it uses functionalities of probabilistic data structures such as HyperLogLog and Count-min Sketch).
+Radim Řehůřek's keynote, [Winning together: Bridging the gap between academia and industry](https://pydata.org/warsaw2017/schedule/presentation/63/) was, among other things, also mentioning the difference of interpretability standards in industrial and scientific setting. This talk also announced another library, [bounter](https://github.com/RaRe-Technologies/bounter) that NLP/text mining people should find useful: bounter (portmanteau of bounded counter) is a datastructure that has similar functionality to counter, albeit the answers it gives are approximate (it uses functionalities of probabilistic data structures such as HyperLogLog and Count-min Sketch). This talk also mentioned lime and eli5.
 
-Another talk that was in similar vein was [Debugging machine learning](https://pydata.org/warsaw2017/schedule/presentation/34/). The speaker emphasized interpretability and explainability of not only models, but also code. He also advocated using tests and other best software development practices with machine learning pipelines. 
+Another talk that was in similar vein was [Debugging machine learning](https://pydata.org/warsaw2017/schedule/presentation/34/). The speaker emphasized interpretability and explainability of not only models, but also code. He also advocated using tests and other best software development practices with machine learning pipelines. This was the third talk that mentioned lime and eli5 libraries. 
 
-One of the talks I liked the most was [How to visualize neural network parameters and activity](https://pydata.org/warsaw2017/schedule/presentation/47/). Justin Shenk, who is graduate student working on neural network interpretability, presented live demos of several toolboxes for visualizing weights of deep learning architectures. This talk's output showed that tools for interpretability are possible for complex neural network architectures like convolutional and recurrent nets, and they can be both fun and useful for learning about these methods and diagnosing their performance.
+One of the talks I liked the most was [How to visualize neural network parameters and activity](https://pydata.org/warsaw2017/schedule/presentation/47/). Justin Shenk, who is graduate student working on neural network interpretability, presented live demos of several toolboxes for visualizing weights of deep learning architectures. This talk's output showed that tools for interpretability are available for complex neural network architectures like convolutional and recurrent nets, and they can be both fun and useful for learning about these methods and diagnosing their performance.
 
 
 ###  Deep learning
-* Exploring Word2Vec
-* Neural translation
-* Siamese RNN
-* Hand gesture recognition
-* Deep generative models
+
+Word embeddings are often presented under the banner of deep learning, even though they don't exactly use deep architectures. [Exploring word2vec vector space](https://pydata.org/warsaw2017/schedule/presentation/50/) touched the subject of encoding semantic and lexical structure linear space structure. Actually the title was a misnomer, since the embeddings used GloVe, a related technique. What really standed out in the talk was that the speaker implemented app for visualization of this structure, which can be accessed from [Piotr Migdał's blog post](ttp://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html). The blog post is not too deep though, further information could be found in [this paper](https://pdfs.semanticscholar.org/abc6/ed6d51441fdd742773e54af273d6ac430f7f.pdf).
+
+Another interesting application of neural nets to NLP tasks was covered by [Use of vectorized text and siamese recurrent neural networks for Allegro offers clustering](https://pydata.org/warsaw2017/schedule/presentation/24/). Siamese networks are networks that take two inputs and output their similarity score. They share weights for encoded inputs. Allegro guys used siamese RNNs to find duplicate book offers, based on concatenated word embeddings of the text inputs. Unfortunately their work on these architectures was based on a small subset of books (a couple of genres), so it's hard to tell how their results will generalize. 
+
+[Image generation using deep learning](https://pydata.org/warsaw2017/schedule/presentation/28/) was the most theoretical talk I attended. The speaker tried to explain derivation of Variational Autoencoder and Generative Adversarial Networks training, which was hard in 30 minutes (most likely the slides were prepared for a longer talk). VAEs and GANs are generative methods that are used for state-of-the art image generation. The speaker showed amusing examples of faces generated by models trained on celebrity faces photos dataset.
+
 * PyTorch
 
-* Boosting
+### Other
+
+
+### Conclusion
