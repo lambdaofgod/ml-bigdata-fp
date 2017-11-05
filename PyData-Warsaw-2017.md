@@ -35,9 +35,11 @@ The speaker showcased impressive growth of the library: it was released in 2017,
 ## Other
 ----
 
-Some other topics covered on the conference included boosting (a talk on XGBoost, LightGBM and Catboost), natural language processing (introductory talk, neural translation, and one on Slavic languages).
+Some other topics covered on the conference included boosting (a talk on XGBoost, LightGBM and Catboost), natural language processing (introductory talk, neural translation, and one on Slavic languages). There was also one talk that wasn't on Python - it was on Julia (this language is also sponsored by NumFocus).
 
 ----
 ## Conclusion
 ---- 
-It was real fun to attend PyData Warsaw 2017 conference. If you're into Python ecosystem for data science you could talk with developers of your favourite libraries (and get the stickers). The venue was all right. One small hiccup was that coffee/tea tables were sometimes not available and it wasn't written anywhere, sometimes making these beverages hard to obtain. 
+It was real fun to attend PyData Warsaw 2017 conference if you're into Python data science tools. You could talk with developers of your favourite libraries (and get the stickers too). The venue was all right. One small hiccup was that coffee/tea tables were occasionally not available and it wasn't clear when it's going to happen, sometimes making these beverages hard to obtain.
+
+In general NumFocus/PyData people put a lot of work into this and it resulted in great conference - many thanks to them! 
