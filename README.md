@@ -17,7 +17,9 @@ Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud26
 
 Hinton's [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/) - Coursera. Really comrehensive introductory course on Deep Learning. The most theory-oriented MOOCs. The only drawback is the course wasn't updated since its first iteration in 2013. Contains some programming exercises using Matlab/Octave. See [here](https://github.com/lambdaofgod/neural-networks-coursera-setup) for code setup.
 
-Udacity [Deep Learning Nanodegree Notebooks](https://github.com/udacity/deep-learning) - cover whole range of topics, from basics to GANs.
+Udacity [Deep Learning Nanodegree Notebooks](https://github.com/udacity/deep-learning) - cover whole range of topics, from basics to GANs. **Uses Tensorflow**.
+
+[MXNet - the straight dope](https://github.com/zackchase/mxnet-the-straight-dope) - notebook-style deep learning course (covers both theory and practice). Uses **MXNet**, a pretty interesting framework - it supports both static computation graphs and dynamic computations. It also covers **Gluon**, high-level library for writing neural networks (like Keras, similar to scikit-learn API).
 
 Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
 
