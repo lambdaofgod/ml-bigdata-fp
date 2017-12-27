@@ -23,6 +23,8 @@ Udacity [Deep Learning Nanodegree Notebooks](https://github.com/udacity/deep-lea
 
 Kadenze [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i/info) - covers interesting applications of DL like image painting.
 
+[Deep Learning Implementations and Frameworks](https://sites.google.com/site/dliftutorial/) - comparison of DL frameworks. Covers **Torch.nn**, **Theano**, **Caffe**, **Chainer**, **MXNet**, **TensorFlow** and **PyTorch**. It is particularly useful for someone who knows one of these frameworks and wants to learn another.
+
 #### NLP/Information retrieval
 
 [Speech and Language Processing (3rd ed draft)](https://web.stanford.edu/~jurafsky/slp3/) - introductory material on NLP. 3rd edition has much bigger sections on machine learning and neural network methods. Theory-oriented, one of few textbooks covering word embeddings.
