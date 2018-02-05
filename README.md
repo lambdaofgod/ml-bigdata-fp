@@ -4,6 +4,7 @@
 ### Machine Learning
 Classic [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning) - probably the best default beginner course
 
+
 Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 
 [Understanding Machine Learning : From Theory to Algorithms ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)- introductory book on ML. Very clear on theory, with exercise sections for each subsection. Can be found on the internet.
@@ -16,6 +17,8 @@ Udacity [Machine Learning](https://www.udacity.com/course/machine-learning--ud26
 #### Deep Learning
 
 Hinton's [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks/) - Coursera. Really comrehensive introductory course on Deep Learning. The most theory-oriented MOOCs. The only drawback is the course wasn't updated since its first iteration in 2013. Contains some programming exercises using Matlab/Octave. See [here](https://github.com/lambdaofgod/neural-networks-coursera-setup) for code setup.
+
+[Andrew Ng's Deep Learning ](https://www.coursera.org/specializations/deep-learning) Coursera Specialization - really thorough course series, covers both theoretical and practical aspects. Video lectures and Coursera-hosted Jupyter Notebooks for this course are available for free.
 
 Udacity [Deep Learning Nanodegree Notebooks](https://github.com/udacity/deep-learning) - cover whole range of topics, from basics to GANs. **Uses Tensorflow**.
 
